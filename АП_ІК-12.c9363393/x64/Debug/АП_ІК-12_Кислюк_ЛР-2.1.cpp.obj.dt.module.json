@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "АП_ІК-12.c9363393\\x64\\Debug\\АП_ІК-12_Кислюк_ЛР-2.1.obj",
+            "outputs": [
+                "АП_ІК-12.c9363393\\x64\\Debug\\АП_ІК-12_Кислюк_ЛР-2.1.cpp.obj.dt.module.json",
+                "АП_ІК-12.c9363393\\x64\\Debug\\АП_ІК-12_Кислюк_ЛР-2.1.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
